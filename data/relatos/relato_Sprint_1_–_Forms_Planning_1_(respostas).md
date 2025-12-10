@@ -1,32 +1,32 @@
 # Relato – Sprint 1 – Forms Planning 1 (respostas)
 
-- **Nota Planning**: 9.47
+- **Nota Planning**: 7.81
 
 ## Temas
-- **Objetivos & Valor**: 9.79
-- **Riscos, Transparência & Alternativas**: 9.58
-- **Execução & Governança da Planning**: 9.06
-- **Alocação & Ownership**: 9.72
-- **Escopo & Decisão Técnico-Negócio**: 9.17
+- **Objetivos & Valor**: 7.50
+- **Riscos, Transparência & Alternativas**: 8.33
+- **Execução & Governança da Planning**: 6.87
+- **Alocação & Ownership**: 8.89
+- **Escopo & Decisão Técnico-Negócio**: 7.78
 
 ## SPACE (principais – P, C, E)
-- **SPACE-P (Performance)**: 9.48
-- **SPACE-C (Communication & Collaboration)**: 9.70
-- **SPACE-E (Efficiency & Flow)**: 9.38
+- **SPACE-P (Performance)**: 7.64
+- **SPACE-C (Communication & Collaboration)**: 8.24
+- **SPACE-E (Efficiency & Flow)**: 7.97
 
 ## Top 5 perguntas
-- Na sua percepção os objetivos da Sprint foram claramente definidos e compreendidos por todos os membros.: 10.00
-- Informações importantes sobre as tarefas foram compartilhadas de forma transparente.: 10.00
-- Na sua percepção a equipe tomou decisões alinhadas ao contexto técnico e de negócio do projeto: 10.00
-- A autoatribuição das tarefas refletiu uma boa distribuição baseada nas competências individuais da equipe.: 10.00
-- A reunião contribuiu para atingir os objetivos individuais e coletivos da equipe.: 10.00
+- Na sua percepção a equipe compreendeu claramente o valor das tarefas para o cliente e/ou o projeto.: 9.17
+- O escopo da sua tarefa faz sentido dentro das necessidades do projeto.: 9.17
+- Informações importantes sobre as tarefas foram compartilhadas de forma transparente.: 9.17
+- A autoatribuição das tarefas refletiu uma boa distribuição baseada nas competências individuais da equipe.: 9.17
+- A reunião contribuiu para atingir os objetivos individuais e coletivos da equipe.: 9.17
 
 ## Bottom 5 perguntas
-- Os membros assumiram proativamente tarefas alinhadas à sua experiência e capacidade técnica.: 9.58
-- As decisões tomadas foram adequadamente documentadas.: 9.17
-- Houve abertura para discutir soluções alternativas ou diferentes abordagens.: 9.17
-- Considerando as suas tarefas atribuídas na sprint, você acredita ter uma boa compreensão técnica dos desafios envolvidos.: 7.92
-- A reunião começou e terminou dentro do tempo previsto.: 7.50
+- Todos os membros participaram ativamente das discussões.: 6.67
+- Considerando as suas tarefas atribuídas na sprint, você acredita ter uma boa compreensão técnica dos desafios envolvidos.: 5.83
+- Na sua percepção os objetivos da Sprint foram claramente definidos e compreendidos por todos os membros.: 5.83
+- A reunião começou e terminou dentro do tempo previsto.: 5.83
+- As decisões tomadas foram adequadamente documentadas.: 5.83
 
 ## Sugestões de melhoria
 - Nenhuma sugestão crítica; manter o processo atual e revisar quinzenalmente.
